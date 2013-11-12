@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <dimen name="standard_padding">8dip</dimen>
+  <dimen name="half_padding">4dip</dimen>
+  
+  <!-- Zxing -->
+    <dimen name="capture_padding">30dip</dimen>
+    <dimen name="laser_padding">10dip</dimen>
+    <dimen name="frame_width">350dip</dimen>
+    <dimen name="frame_height">180dip</dimen>
+</resources>
